@@ -17,4 +17,4 @@ zubareva.ayu@gmail.com
 1. Python-разработчик
 2. Аналитик данных
   
-![](../portfolio/img/IMG_0054.jpg)
+![IMG_0054](https://github.com/user-attachments/assets/67abd8f9-de88-449d-beba-68d1fb0a2767)
